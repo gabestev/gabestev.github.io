@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      {% assign m = page.date | date: "%-m" %}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%-d" }}
+        {% case m %}
+            {% when '1' %}Januari
+            {% when '2' %}Februari
+            {% when '3' %}Maret
+            {% when '4' %}April
+            {% when '5' %}Mii
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}Agustus
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}Desember
+        {% endcase %}
+        {{ page.date | date: "%Y" }}
+      </time>
+      {%- if page.modified_date -%}
+        ~ Diubah:
+        {%- assign mdate = page.modified_date | date: "%-m" -%}
+        <time class="dt-modified" datetime="{{ page.modified_date | date_to_xmlschema }}" itemprop="dateModified">
+
+          {% assign mm = page.date | date: "%-m" %} 
+          {{ page.modified_date | date: "%-d" }}
+          {% case mm %}
+            {% when '1' %}Januari
+            {% when '2' %}Februari
+            {% when '3' %}Maret
+            {% when '4' %}April
+            {% when '5' %}Mii
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}Agustus
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}Desember
+          {% endcase %}
+          {{ page.modified_date | date: "%Y" }}
+        </time>
+      {%- endif -%}
+      {%- if page.author -%}
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

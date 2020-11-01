@@ -25,7 +25,25 @@ layout: default
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta" style="margin-right: 8px;">
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}Januari
+            {% when '2' %}Februari
+            {% when '3' %}Maret
+            {% when '4' %}April
+            {% when '5' %}Mii
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}Agustus
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}Desember
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+        </span>
         <h3 style="display: inline-block;">
           <a class="post-link" href="{{ post.url | relative_url }}" style="font-size: 16px;">
             {{ post.title | escape }}
