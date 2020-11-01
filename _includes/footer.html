@@ -1,40 +1,38 @@
-<footer class="site-footer">
+<footer class="site-footer h-card">
+
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
 
-    <!-- <h2 class="footer-heading">{{ site.title[page.lang] }}</h2> -->
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <p>{{ site.description[page.lang] }}</p>
+        {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li>
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+        {%- endif %}
       </div>
-      
+
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
+          <li>{% include icon-github.html username=site.github_username %}</li>
           {% endif %}
-
+    
           {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
+          <li>{% include icon-twitter.html username=site.twitter_username %}</li>
           {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        {% if page.lang == "id" %}
-          <a class="rss" href="{{ "/rss.xml" | prepend: site.baseurl }}">Feed RSS</a>
-        {% endif %}
-        {% if page.lang == "en" %}
-          <a class="rss" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a>
-        {% endif %}
+        <p>{{ site.description }}</p>
       </div>
-
-      
     </div>
 
   </div>
