@@ -24,7 +24,7 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li>
+      <li style="margin-bottom: 8px;">
         <span class="post-meta" style="margin-right: 8px;">
           {% assign m = post.date | date: "%-m" %}
           {{ post.date | date: "%-d" }}
@@ -44,7 +44,7 @@ layout: default
           {% endcase %}
           {{ post.date | date: "%Y" }}
         </span>
-        <h3 style="display: inline-block;">
+        <h3 style="display: inline-block; margin-bottom: 0;">
           <a class="post-link" href="{{ post.url | relative_url }}" style="font-size: 16px;">
             {{ post.title | escape }}
           </a>
