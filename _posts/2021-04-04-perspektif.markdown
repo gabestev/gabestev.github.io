@@ -19,4 +19,4 @@ Beberapa *key takeaways* dari ilustrasi diatas:
 
 4. Kebenaran menerut seseorang, belum tentu benar menurut orang lain. Aku kutip dari bukunya bro Ruby. ada 3 Kebenaran: Personal Truth, Political Truth, Objective/Global Truth.
 
-Perspektif setiap orang akan selalu berbeda, perbedaan akan selalu ada. Bukan soal berapa banyak bedanya, tapi kita perlu memahami kenapa itu bisa berbeda, kemudian untuk menjadi se-obyektif dan mungkin jika tidak ada titik temu perlu untuk "agree to disagree" terkait topik / permasalahan itu.
+Perspektif setiap orang akan selalu berbeda, perbedaan akan selalu ada. Bukan soal berapa banyak bedanya, tapi kita perlu memahami kenapa itu bisa berbeda. Kemudian, untuk menjadi se-obyektif mungkin. Jika tidak ada titik temu, maka perlu untuk "agree to disagree" terkait topik / permasalahan itu.
