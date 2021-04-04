@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "Mulai Menulis?"
+title: "Hello World?"
 date: 2020-10-31 10:41:00 +0700
 categories: opini
 ---
 
-Biasanya tulisan pertama isinya "Hello World", hahaha.
-Sudah lama ingin menulis.. Em, kalo sekarang mungkin mengetik, tapi outputnya tulisan bukan? Baiklah, kita sebut menulis saja. Tidak perlu diperdebatkan.
+Sedari dulu bilang ingin belajar menulis, ingin punya blog. tapi tak pernah kesampaian. Banyak sekali alasannya, mulai dari
 
-Tapi mau menulis apa sih? Ilmu Teknis? Fiksi? atau cuma mau ikutin sok-sok puitis ala pujangga kekinian?
-Hmm, tuliskan saja semua yang ada di kepalamu, tak peduli genre nya, tak peduli topiknya. Ini soal menuliskan apa yang ada dalam isi pikiran dan hatimu. Bayangkan saja dirimu adalah [Jin Sakai](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), yang lagi menemukan kolam onsen-nya dan refleksi Mengenai perjalanan dan kehidupannya sembari membebaskan Tsushima dari Pasukan Mongol.
+1. aku tidak bisa menulis, apa yang mau kutulis?
+2. udah banyak loh orang bikin blog di luaran sana
+3. bahkan cibiran orang lain pun, gw sikapi dengan cara yang salah
+
+Yang gw cari waktu itu adalah gimana present tulisan itu supaya enak dibaca, so perfection is killing the idea and execution.
+
+Jadi gw gak mau mikirin ini dan itu lagi, gw tuliskan saja semua yang ada di kepala, ga peduli genre nya, ga peduli topiknya. Ini soal menuliskan apa yang ada dalam diri gw. 
+
+Buat yang suka main console mungkin bisa relate, Gw ngebayangin perjalanannya [Jin Sakai](https://en.wikipedia.org/wiki/Ghost_of_Tsushima), yang dikolam onsen-nya lagi refleksi mengenai perjalanan dan kehidupannya disela-sela misinya membebaskan Tsushima dari Pasukan Mongol.
