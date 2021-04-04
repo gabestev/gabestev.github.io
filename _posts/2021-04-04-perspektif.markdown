@@ -13,7 +13,7 @@ Budi dan ayu berdebat cukup lama mengenai bentuk lingkaran dan kotak yang mereka
 
 Rupa-rupanya bentuk yang mereka lihat adalah bentuk 4D - empat dimensi, yang bilamana dilihat dari sudut tertentu akan terlihat sebagai lingkaran, sedangkan dari sudut yang lain akan terlihat sebagai bentuk kotak.
 
-Kita pasti pernah mengalami hal serupa, baik dengan teman, rekan kerja atau pasangan. Ada baiknya kita bisa memposisikan diri di posisi orang lain agar dapat mengerti sudut pandang orang tersebut.
+Kita pasti pernah mengalami perbedaan pendapat seperti halnya Budi dan Ayu, baik dengan teman, rekan kerja atau pasangan. Ada baiknya kita bisa memposisikan diri di posisi orang lain agar dapat mengerti sudut pandang orang tersebut.
 
 Beberapa *key takeaways* dari ilustrasi diatas:
 
