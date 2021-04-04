@@ -5,7 +5,7 @@ date: 2021-04-04 08:35:00 +0700
 categories: opini
 ---
 
-<p style="font-size: 1.45em;">Budi dan Ayu mengunjungi sebuah museum seni dan melihat sebuah benda. Budi mengatakan benda dia lihat berbentuk <strong>lingkaran</strong>. Sedangkan, Ayu mengatakan bahwa benda yang dia lihat berbentuk <strong>kotak</strong>. menurut kamu siapa yang benar?</p> 
+<p style="font-size: 1.45em;">Budi dan Ayu mengunjungi sebuah museum seni dan melihat sebuah benda. Budi mengatakan benda itu berbentuk <strong>lingkaran</strong>. Sedangkan, Ayu mengatakan bahwa benda itu berbentuk <strong>kotak</strong>. menurut kamu siapa yang benar?</p> 
 
 <hr style="margin: 16px 0; border: 0.5px solid #eee;">
 
