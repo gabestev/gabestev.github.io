@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Perspektif"
+title: "Tentang Perspektif"
 date: 2021-04-04 08:35:00 +0700
 categories: opini
 ---
 
-Budi mengatakan bahwa bentuk yang diliat adalah lingkaran, Ayu mengatakan bahwa apa yang dia lihat adalah kotak. menurut kamu siapa yang benar? 
+<p style="font-size: 1.45em;">Budi dan Ayu mengunjungi sebuah museum seni dan melihat sebuah benda. Budi mengatakan benda dia lihat berbentuk <strong>lingkaran</strong>. Sedangkan, Ayu mengatakan bahwa benda yang dia lihat berbentuk <strong>kotak</strong>. menurut kamu siapa yang benar?</p> 
 
-Budi dan Ayu bertukar posisi untuk melihat dan memastikan pendapatnya. Rupa-rupanya bentuk yang mereka lihat adalah bentuk 4D - empat dimensi, yang bilamana dilihat dari sudut tertentu akan terlihat sebagai lingkaran, sedangkan dari sudut yang lain akan terlihat sebagai bentuk kotak.
+<hr style="margin: 16px 0; border: 0.5px solid #eee;">
+
+Budi dan ayu berdebat cukup lama mengenai bentuk lingkaran dan kotak yang mereka lihat dari jarak agak jauh, hingga akhirnya mereka mendekat dan  untuk melihat lebih dekat dan jelas untuk memastikan pendapatnya. 
+
+Rupa-rupanya bentuk yang mereka lihat adalah bentuk 4D - empat dimensi, yang bilamana dilihat dari sudut tertentu akan terlihat sebagai lingkaran, sedangkan dari sudut yang lain akan terlihat sebagai bentuk kotak.
 
 Kita pasti pernah mengalami hal serupa, baik dengan teman, rekan kerja atau pasangan. Ada baiknya kita bisa memposisikan diri di posisi orang lain agar dapat mengerti sudut pandang orang tersebut.
 
@@ -18,6 +22,9 @@ Beberapa *key takeaways* dari ilustrasi diatas:
 2. Sebuah permasalahan / isu / topik, selayaknya harus dilihat dari berbagai sisi. Ketika kita mengedepankan emosi kita, maka manusia akan cenderung tidak berpikir rasional.
 
 3. Mendengar secara aktif dan mengamati lebih banyak, akan memampukan kita memahami.<br>Memahami topik yang kita diskusikan, memahami maksud orang lain, memahami kondisi yang ada, hingga sebab-akibatnya, dan lain sebagainya.
+<span style="display: block; margin: 0 auto 8px"></span>
+> Banyak orang pintar diluar sana (dalam memahami sebuah masalah).<br>Tapi orang yang bisa berempati terhadap orang lain itu sedikit. 
+<br><small>- Pak Bos Gw</small>
 
 4. Kebenaran menerut seseorang, belum tentu benar menurut orang lain. <br>Aku kutip dari bukunya bro Ruby. Ada 3 jenis Kebenaran: Personal Truth, Political Truth, Objective/Global Truth.
 
